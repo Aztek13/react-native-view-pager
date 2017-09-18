@@ -1,5 +1,5 @@
 {
-  "name": "react-native-view-pager",
+  "name": "@aztek13/react-native-view-pager",
   "version": "0.0.9",
   "description": "",
   "main": "library/ViewPager.js",
